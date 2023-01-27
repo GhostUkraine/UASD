@@ -493,3 +493,6 @@ height: 369.7px;
 left: 1111.21px;
 top: 2517.6px;
 }
+section {
+    padding: 0 calc(50% - 554px);
+  }
